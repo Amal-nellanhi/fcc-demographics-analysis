@@ -1,11 +1,11 @@
-Demographic Data Analyzer
+# 📓Demographic Data Analyzer
 
 This project is part of the FreeCodeCamp Data Analysis with Python certification.
 It uses the UCI Adult Census dataset to explore demographic statistics such as age, education, working hours, income, and occupations.
 
+________________________________________________________________________________________________________________________________________________________________
 
-
-📊 Project Overview
+## 📊 Project Overview
 
 The script answers the following questions:
 
@@ -27,18 +27,18 @@ Which country has the highest percentage of people earning >50K?
 
 What is the most popular occupation for those who earn >50K in India?
 
+_________________________________________________________________________________________________________________________________________________________________
 
 
-
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Python 🐍
 
 Pandas 📊
 
+_____________________________________________________________________________________________________________________________________________________________________
 
-
-📂 Dataset
+## 📂 Dataset
 
 The dataset used is adult.data.csv, containing demographic and income information.
 
